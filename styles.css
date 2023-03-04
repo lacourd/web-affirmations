@@ -1,0 +1,56 @@
+body {
+    font-family: garamond;
+    padding: 20px;
+    text-align: center;
+    display: bl
+}
+
+.test {
+    text-align: left;
+    padding:0px;
+
+}
+.background {
+    mask-image: 100%;
+    overflow-anchor: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+    position: absolute;
+    text-align: justify;
+    opacity: 50%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+#affirmation {
+    font-size: 78px;
+    font-family: garamond;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative
+}
+
+#affirmationText {
+    font-size: 78px;
+    font-family: garamond;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: firebrick
+}
+
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+#emily {
+    position: absolute;
+}
