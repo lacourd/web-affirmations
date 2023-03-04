@@ -2,7 +2,7 @@ body {
     font-family: garamond;
     padding: 20px;
     text-align: center;
-    display: bl
+    display: block
 }
 
 .test {
@@ -11,7 +11,6 @@ body {
 
 }
 .background {
-    mask-image: 100%;
     overflow-anchor: auto;
     overflow-y: auto;
     overflow-x: auto;
@@ -21,6 +20,7 @@ body {
     z-index: -1;
     top: 0px;
     left: 0px;
+    
 }
 
 h1 {
